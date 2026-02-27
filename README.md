@@ -59,10 +59,33 @@ Madanapalle Institute of Technology & Science — CGPA 9.02 (2021-2025)
 
 ---
 
-### 📫 Contact
+### 📫 Connect With Me
 
-📧 [chethan8374@gmail.com](mailto:chethan8374@gmail.com)
-🔗 https://www.linkedin.com/in/chethan-gondrala/| https://chethan-gondrala.github.io/portfolio/ | https://github.com/Chethan-Gondrala
+<p align="center">
+
+<a href="mailto:chethan8374@gmail.com">
+<img src="https://readme-typing-svg.herokuapp.com/?color=F75C7E&center=true&vCenter=true&lines=📧+Email+Me:+chethan8374@gmail.com&size=20">
+</a>
+
+<br>
+
+<a href="https://www.linkedin.com/in/chethan-gondrala/">
+<img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&center=true&vCenter=true&lines=🔗+Connect+on+LinkedIn&size=20">
+</a>
+
+<br>
+
+<a href="https://chethan-gondrala.github.io/portfolio/">
+<img src="https://readme-typing-svg.herokuapp.com/?color=2ECC71&center=true&vCenter=true&lines=🌐+View+My+Portfolio&size=20">
+</a>
+
+<br>
+
+<a href="https://github.com/Chethan-Gondrala">
+<img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&center=true&vCenter=true&lines=🐙+Follow+on+GitHub&size=20">
+</a>
+
+</p>
 
 ---
 
