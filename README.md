@@ -45,8 +45,8 @@ Madanapalle Institute of Technology & Science — CGPA 9.02 (2021-2025)
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chethan-Gondrala&show_icons=true&theme=default&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chethan-Gondrala&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chethan-Gondrala&show_icons=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chethan-Gondrala&layout=compact" />
 </p>
 
 ---
