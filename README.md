@@ -45,8 +45,8 @@ Madanapalle Institute of Technology & Science — CGPA 9.02 (2021-2025)
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Chethan-Gondrala&show_icons=true&theme=default&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chethan-Gondrala&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Madanapalle Institute of Technology & Science — CGPA 9.02 (2021-2025)
 ### 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Visitors&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Chethan-Gondrala&label=Profile%20Visitors&style=flat-square" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ Madanapalle Institute of Technology & Science — CGPA 9.02 (2021-2025)
 ### 📫 Contact
 
 📧 [chethan8374@gmail.com](mailto:chethan8374@gmail.com)
-🔗 LinkedIn | Portfolio | GitHub
+🔗 https://www.linkedin.com/in/chethan-gondrala/| https://chethan-gondrala.github.io/portfolio/ | https://github.com/Chethan-Gondrala
 
 ---
 
